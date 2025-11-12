@@ -38,4 +38,5 @@ npm start
 
 ## 🌐 Link do Projeto Hospedado
 ``bash
-https://charleslisboa2-sys.github.io/EcoVida/
+
+https://charleslisboa2-sys.github.io/ecovida/
