@@ -1,0 +1,19 @@
+{
+  "name": "ecovida",
+  "version": "1.0.0",
+  "description": "EcoVida - Plataforma de Educação Ambiental acessível e sustentável.",
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "author": "Charles Lisboa",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^7.1.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4",
+    "html-webpack-plugin": "^5.5.3"
+  }
+}
