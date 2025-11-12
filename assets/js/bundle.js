@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const t=document.body,e=document.querySelector("#contrastBtn"),o=document.querySelector("#darkBtn");e&&e.addEventListener("click",()=>{t.classList.toggle("alto-contraste")}),o&&o.addEventListener("click",()=>{t.classList.toggle("modo-escuro")})});
