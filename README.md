@@ -38,4 +38,4 @@ npm start
 
 🔗 **Acesse o site:** [https://charleslisboa2-sys.github.io/ecovida/](https://charleslisboa2-sys.github.io/ecovida/)
 
-📦 **Repositório no GitHub:** [https://github.com/charleslisboa2-sys/ecovida](https://github.com/charleslisboa2-sys/ecovida)
+📦 **Repositório no GitHub:** [https://github.com/charleslisboa2-sys/ecovida/](https://github.com/charleslisboa2-sys/ecovida/)
