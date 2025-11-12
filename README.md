@@ -36,7 +36,6 @@ npm run build
 Iniciar o servidor local
 npm start
 
-## 🌐 Link do Projeto Hospedado
-``bash
+🔗 **Acesse o site:** [https://charleslisboa2-sys.github.io/ecovida/](https://charleslisboa2-sys.github.io/ecovida/)
 
-https://charleslisboa2-sys.github.io/ecovida/
+📦 **Repositório no GitHub:** [https://github.com/charleslisboa2-sys/ecovida](https://github.com/charleslisboa2-sys/ecovida)
