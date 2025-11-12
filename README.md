@@ -3,7 +3,6 @@
 ## 🧭 Visão Geral
 O **EcoVida** é um projeto acessível e inclusivo que promove **educação ambiental** e **sustentabilidade** para todos, seguindo as diretrizes de acessibilidade **WCAG 2.1 Nível AA**.
 
----
 
 ## 🧩 Funcionalidades
 - Navegação otimizada para teclado e leitores de tela;  
@@ -12,7 +11,6 @@ O **EcoVida** é um projeto acessível e inclusivo que promove **educação ambi
 - Build otimizado com **Webpack**;  
 - **Deploy automático** via *GitHub Actions* (CI/CD).
 
----
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**, **CSS3**, **JavaScript**  
@@ -20,28 +18,24 @@ O **EcoVida** é um projeto acessível e inclusivo que promove **educação ambi
 - **Git / GitHub**  
 - **GitHub Actions** (Integração Contínua e Deploy Automático)
 
----
 
 ## ⚙️ Instalação e Execução
 
 # Clonar o repositório
 git clone https://github.com/seu-usuario/ecovida.git
 
-# Acessar o diretório do projeto
+Acessar o diretório do projeto
 cd ecovida
 
-# Instalar dependências
+Instalar dependências
 npm install
 
-# Gerar build de produção
+Gerar build de produção
 npm run build
 
-# Iniciar o servidor local
+Iniciar o servidor local
 npm start
-
----
 
 ## 🌐 Link do Projeto Hospedado
 ``bash
-
-https://charleslisboa2-sys.github.io/MundoPet/
+https://charleslisboa2-sys.github.io/EcoVida/
